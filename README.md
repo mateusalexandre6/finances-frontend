@@ -51,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [your email].
+For any inquiries, please contact mateusvirtual01@gmail.com 
